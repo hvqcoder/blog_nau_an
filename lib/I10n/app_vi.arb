@@ -1,0 +1,17 @@
+{
+  "bottomNvgRecipes": "Công thức",
+  "bottomNvgFavorites": "Yêu thích",
+  "bottomNvgJoke": "Joke",
+  
+  "recipes": "Công thức",
+  "favorites": "Công thức yêu thích",
+  "joke": "Food Joke",
+
+  "noData": "Không có dữ liệu",
+  "hasError": "Có lỗi xảy ra, xin thử lại sau",
+  "step" : "Bước",
+
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}

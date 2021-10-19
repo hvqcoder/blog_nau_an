@@ -1,0 +1,17 @@
+{
+  "bottomNvgRecipes": "Recipes",
+  "bottomNvgFavorites": "Favorites",
+  "bottomNvgJole": "Joke",
+  
+  "recipes": "Recipes",
+  "favorites": "Favorites Recipes",
+  "joke": "Food Joke",
+
+  "noData": "No data",
+  "hasError": "Sorry, something wrong. Please try later",
+  "step" : "Step",
+
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
